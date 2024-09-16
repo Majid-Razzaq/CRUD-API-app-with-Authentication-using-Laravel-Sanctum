@@ -1,7 +1,0 @@
-first we created project 
-go to laravel official web and search laravel sanctum, copy installation command (php artisan install:api)
-after all we add some code in api.php and remove web.php home route code
-We run this command (php artisan make:model -h) (php artisan make:model Post -a --api)
-we add some code in POst.php model 
-we go to post migration file and add column there and we run migrate command 
-we worked on Postcontroller
